@@ -2,7 +2,7 @@
 
 This is a Python-based rule-based chatbot developed during my Data Science Internship at Pinnacle Labs Pvt. Ltd.
 
-The chatbot was designed for customer support and interactive communication, improving user engagement through a simple web interface.
+The chatbot was created for customer support and interactive communication, improving user engagement through a simple web interface.
 
 ---
 
@@ -11,9 +11,8 @@ The chatbot was designed for customer support and interactive communication, imp
 - Python
 - Flask (Backend)
 - HTML & CSS
-- JavaScript (for frontend interactivity)
+- JavaScript (Frontend)
 
 ---
 
 ## 📂 Project Structure
-
